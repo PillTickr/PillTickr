@@ -75,7 +75,7 @@ See [`ROADMAP.md`](./ROADMAP.md) for upcoming milestones.
 
 ## 🛡️ License
 
-[MIT License](https://github.com/PillTickr/.github/blob/main/profile/LICENSE.md) © [PillTickr Contributors](https://github.com/PillTickr)
+[MIT License](./LICENSE.md) © [PillTickr Contributors](https://github.com/PillTickr)
 
 ---
 
